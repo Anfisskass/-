@@ -42,11 +42,30 @@ if (num3 > num2)
 Console.WriteLine("Max = "+max);
 */
 
-
+/*
 int num;
 Console.Write("Input integer number: ");
 num = Convert.ToInt32(Console.ReadLine());
 
-int current = num / 2; 
+if(num % 2 == 0)
+{
+    Console.WriteLine("Четное");
+}
+else
+{
+    Console.WriteLine("Нечетное");   
+}
+*/
 
-  Console.WriteLine("Четное");
+int num;
+
+Console.Write ("Input integer number: ");
+num = Convert.ToInt32(Console.ReadLine());
+
+int current = 2;
+
+while(current <= num)
+{
+    Console.Write(current + " ");
+    current= current + 2; 
+}
