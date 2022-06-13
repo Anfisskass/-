@@ -2,3 +2,5 @@ bin
 obj 
 Seminar1.csproj
 Hometask.csproj
+*.csproj
+Seminar2.csproj
