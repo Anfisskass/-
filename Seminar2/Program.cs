@@ -71,7 +71,6 @@ string IsAliquot(int num1, int num2)
         return ("False, rest num is " + (num2 % num1));
     }
 }
-Console.WriteLine(CutNumber(a, b))
 */
 
 bool IsAliquot(int num)
@@ -80,4 +79,4 @@ bool IsAliquot(int num)
     else return false;
 }
 
-if IsAliquot(10)
+if
