@@ -29,6 +29,8 @@ Diapazon(num);
 
 //Задача 2
 
+
+
 /*
 
 Console.WriteLine ("Input integer number: ");
