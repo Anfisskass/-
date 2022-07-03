@@ -40,7 +40,8 @@ Console.WriteLine($"Sum of numbers {n} = {result}");
 */
 
 
-/* int FindMult(int A)
+/* 
+int FindMult(int A)
 {
     int current = 1;
     int mult = 1;
