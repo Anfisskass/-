@@ -63,7 +63,7 @@ Console.WriteLine("Third Number of " + a + " is " + result);
 //обозначающую день недели, и проверяет, является ли этот день выходным.
 
 
-Console.WriteLine("Input number from 1 to 7: ");
+/* Console.WriteLine("Input number from 1 to 7: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
 void DayofWeek(int day)
@@ -75,3 +75,4 @@ void DayofWeek(int day)
         Console.Write("working day");
 }
 DayofWeek(day);
+*/
